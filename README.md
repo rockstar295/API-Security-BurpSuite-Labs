@@ -3,7 +3,7 @@
 ## 👤 Author
 
 Name: Gaurav Jangir
-Course: BCA (2nd Year)
+Course: BCA / ETHICAL HACKER /PENTRETION TESTER / SOC ANALYSIS L1
 
 ---
 
